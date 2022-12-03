@@ -1,6 +1,8 @@
 # **Misk Data Science Immersive**
 ## Capstone - Saudi Date Type Prediction App [Deep Learning]
 
+An application where you can take a photo of a date fruit and tells you which type of date it is.
+
 [iOS App]() (offline)
 
 [Report]() (offline)
