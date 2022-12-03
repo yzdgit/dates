@@ -1,13 +1,13 @@
 # **Misk Data Science Immersive**
 ## Capstone - Saudi Date Type Prediction App [Deep Learning]
 
-[iOS App Store (offline)]() 
+[iOS App Store]() (offline)
 
-[Report (offline)]()
+[Report]() (offline)
 
-[Slides (offline)]() 
+[Slides]() (offline)
 
-[Codebook (offline)]() 
+[Codebook]() (offline)
 
 ## **Dataset**
 
