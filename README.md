@@ -1,6 +1,8 @@
 # **Misk Data Science Immersive**
 ## Capstone - Saudi Date Type Prediction App [Deep Learning]
 
+[iOS App Store (offline)]() 
+
 [Report (offline)]()
 
 [Slides (offline)]() 
@@ -8,8 +10,6 @@
 [Codebook (offline)]() 
 
 ## **Dataset**
-
-### [**Music Genre Classification**](https://www.kaggle.com/datasets/purumalgi/music-genre-classification)
 
 ### &ensp;**Context**
 
