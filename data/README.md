@@ -6,4 +6,5 @@ The dataset consists of 1658 high-quality JPG images, each image shows a single 
 A controlled environment was constructed to take pictures of the 9 different dates types acquired from Saudi Arabia. The imaging setup consists of a DSLR camera (canon EOS 550D), a digital single-lens reflex camera, with the flash enabled and a ring light with 48 centimetres outer LED ring light and 240 LED bulbs set to 100% brightness. A ring was used to negate any shadows by surrounding the date with light on all sides, the flash on the camera provides a strong sudden light to the centre, to emphasize the fleshiness or flabbiness of the date. The dates were put on an elevated platform behind a white background. The distance between the paper and the camera was maintained for all pictures which was 8 cm.
 
 [The Study](https://link.springer.com/chapter/10.1007/978-3-030-69717-4_16)
+
 [The Dataset (Kaggle)](https://www.kaggle.com/datasets/wadhasnalhamdan/date-fruit-image-dataset-in-controlled-environment)
