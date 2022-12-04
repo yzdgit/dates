@@ -3,7 +3,7 @@
 
  &ensp;An application where you can take a photo of a date fruit and tells you which type of date it is.
  
- &ensp;[Deep Learning, Computer Vision, CNN, Multi-classification]
+ &ensp;&ensp;[Deep Learning, Computer Vision, CNN, Multi-classification]
 
 [iOS App]() (offline)
 
