@@ -1,0 +1,35 @@
+To Image Process (ZShell, Imagemagic package & rembg package):
+
+find . name '*.png' -execdir >
+
+convert {input} > 
+-trim
+-resize
+-background
+-format
+-fill
+> {output
+
+
+rembg {input}
+
+
+
+To Train:
+
+python train.py --img 640 --batch 6 --epochs 150 --data dates.yaml --weights yolov5s.pt
+
+
+
+
+To Validate:
+
+python val.py --data dates.yaml --weights "D:\OD\yolov5\runs\train\exp7\weights\best.pt"
+
+
+
+
+To Test:
+
+python test.py --data dates.yaml --weights "D:\OD\yolov5\runs\train\exp7\weights\best.pt"
+
