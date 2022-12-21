@@ -5,7 +5,7 @@
  
  &ensp;&ensp;[Deep Learning, Computer Vision, CNN, Multi-classification]
 
-[Slides](https://www.canva.com/design/DAFUvoI5m9o/Cx1hqizYYHaYr9WSbI3AlQ/view?utm_content=DAFUvoI5m9o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) (online)
+[Slides](https://www.canva.com/design/DAFUvoI5m9o/OOAK6dm8Ug-2FiJiKwTe4g/view?utm_content=DAFUvoI5m9o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=GFNWiLXv0Q) (online)
 
 [iOS App]() (Under Apple's Review)
 
