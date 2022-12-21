@@ -9,10 +9,6 @@
 
 [iOS App]() (Under Apple's Review)
 
-[Report]() (offline)
-
-
-[Codebook]() (offline)
 
 ## **Dataset**
 
